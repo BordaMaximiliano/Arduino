@@ -1,0 +1,5 @@
+BLUETOOTH_SoftwareSerial_H 
+Este proyecto se crea un puerto serie propio sin necesidad de utilizar los puesrtos serie tx y rx del arduino.
+
+Proyecto_conexion_puertos_seriales
+Este proyecto utiliza los puertos series del arduino.
